@@ -1,0 +1,30 @@
+_repo: The-SwastikaThe-Earliest-Known-Symbol-and-Its-Migration--with-Observations-on-the-Migration-o__40812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Thomas
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '40830'
+    url: http://www.gutenberg.org/2009/agents/40830
+description: ''
+gutenberg_issued: '2012-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40812'
+  lccn: '13033962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swastikas'
+- !lcsh 'Industries, Primitive'
+- !lcsh 'Symbolism'
+- !lcc 'BL'
+title: "The Swastika, the Earliest Known Symbol, and Its Migration\r\nWith Observations\
+  \ on the Migration of Certain Industries in Prehistoric Times"
+url: http://www.gutenberg.org/ebooks/40812
